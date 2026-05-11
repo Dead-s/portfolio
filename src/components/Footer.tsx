@@ -5,13 +5,13 @@ export default function Footer() {
     <footer className="bg-white border-t border-[#DDDDDD] py-6 px-6 md:px-10">
       <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
         <p className="text-sm text-gray-400 text-center sm:text-left">
-          &copy; 2025 By Your Name. All rights reserved.
+          &copy; 2026 Sabarisharan Surendra. All rights reserved.
         </p>
         <div className="hidden sm:block" />
         <div className="flex items-center gap-4">
           <span className="text-sm text-gray-400 mr-2">Follow Me</span>
           <a
-            href="https://linkedin.com/in/yourprofile"
+            href="https://linkedin.com/in/sabarisharan-surendra-264433280"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-accent-yellow transition-colors"
@@ -19,7 +19,7 @@ export default function Footer() {
             <Linkedin className="w-5 h-5" />
           </a>
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/Dead-s/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-accent-yellow transition-colors"

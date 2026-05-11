@@ -4,17 +4,17 @@ const CONTACT_ITEMS = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'placeholder@email.com',
+    value: 'sbrsharan@gmail.com',
   },
   {
     icon: Phone,
     label: 'Phone',
-    value: '+91 00000-00000',
+    value: '+91 88282-76595',
   },
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    value: 'linkedin.com/in/yourprofile',
+    value: 'linkedin.com/in/sabarisharan-surendra-264433280',
   },
 ];
 

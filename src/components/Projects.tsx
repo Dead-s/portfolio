@@ -2,14 +2,29 @@ import { useEffect, useRef, useState, useMemo } from 'react';
 
 const PROJECTS = [
   {
-    title: 'E-Commerce Platform Redesign',
+    title: 'Insurance Web Application',
     description:
-      'Led the complete redesign of a major e-commerce platform, improving conversion rates by 35% through data-driven design decisions and extensive user testing across multiple device types.',
+      'Built responsive frontend modules in React.js for CTPL, Motor, Critical Illness, and Health insurance products. Implemented advanced form validation, dynamic data handling, and API integrations — improving overall form performance and UX by 30%.',
   },
   {
-    title: 'Mobile Banking Application',
+    title: 'E-Commerce Platform',
     description:
-      'Designed a mobile banking app from the ground up, creating intuitive flows for complex financial transactions while maintaining strict accessibility and security standards.',
+      'Developed product listing and search pages with advanced filters, pagination, and sorting for large catalogs. Built a custom job filter module for branch users, optimizing data loading and improving page response time by 25%.',
+  },
+  {
+    title: 'Automotive Parts E-Commerce',
+    description:
+      'Developed a vehicle selector module allowing users to configure car models, add parts, and manage cart selections. Integrated payment and checkout workflows with API services, reducing checkout time by 20%.',
+  },
+  {
+    title: 'Bank Lead Form Journey',
+    description:
+      'Built a JSON-driven dynamic lead form journey where a new lead flow is created simply by adding a config entry — no additional coding required. Centralized validation and API calls handled via config, with end-to-end encryption for all API communications.',
+  },
+  {
+    title: 'Financial Calculators Suite',
+    description:
+      'Developed 15+ financial calculators (SIP, STP, SWP, SIP Past Performance, and more). Built a reusable input component library (free text, amount, stepper) with centralized validation, error handling, and consistent styling — reused across the platform. Also built a centralized API utility with configurable E2E encryption.',
   },
 ];
 

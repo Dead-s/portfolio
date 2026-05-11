@@ -5,6 +5,7 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   base: "/portfolio/", // your repo name
   plugins: [react()],
+  assetsInclude: ["**/*.JPG"],
   optimizeDeps: {
     exclude: ["lucide-react"],
   },

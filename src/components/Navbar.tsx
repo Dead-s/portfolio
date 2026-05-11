@@ -29,8 +29,8 @@ export default function Navbar({ activeSection, onNavigate }: NavbarProps) {
           className="flex items-center gap-3 hover:opacity-80 transition-opacity"
         >
           <span className="w-3 h-3 rounded-full bg-accent-yellow inline-block" />
-          <span className="font-bold text-text text-lg">Your Name</span>
-          <span className="text-gray-400 text-sm hidden sm:inline">Your Title</span>
+          <span className="font-bold text-text text-lg">Sabarisharan</span>
+          <span className="text-gray-400 text-sm hidden sm:inline">Software Engineer</span>
         </button>
 
         {/* Desktop nav */}

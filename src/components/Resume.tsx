@@ -1,41 +1,20 @@
 const WORK_EXPERIENCE = [
   {
-    range: '2022 - Present',
-    title: 'Senior Product Designer',
-    company: 'Creative Studio Inc.',
+    range: '09/2023 - Present',
+    title: 'Frontend Developer',
+    company: 'Dept/TeknoPoint, Mumbai',
     description:
-      'Leading design initiatives for enterprise clients, establishing design systems, and mentoring junior designers across multiple product lines.',
-  },
-  {
-    range: '2019 - 2022',
-    title: 'UX Designer',
-    company: 'TechFlow Solutions',
-    description:
-      'Designed user-centered interfaces for SaaS products, conducted user research, and collaborated with engineering teams to ship high-quality features.',
-  },
-  {
-    range: '2017 - 2019',
-    title: 'Junior Designer',
-    company: 'Pixel & Code Agency',
-    description:
-      'Created visual designs and prototypes for web and mobile applications, participated in client workshops, and contributed to brand identity projects.',
+      'Built responsive UIs for Insurance, E-Commerce, and Automotive platforms using React.js, TypeScript, and RESTful APIs. Developed insurance product modules (CTPL, Motor, Health, Critical Illness), e-commerce search/filter/pagination features, vehicle selector and checkout workflows, JSON-driven lead form journeys with E2E encryption, and a suite of 15+ financial calculators with a shared reusable component library.',
   },
 ];
 
 const EDUCATION = [
   {
-    range: '2013 - 2017',
-    title: 'Bachelor of Design',
-    company: 'National Institute of Design',
+    range: '09/2021 - 04/2023',
+    title: 'BSC IT',
+    company: 'Vivek College of Commerce, Mumbai',
     description:
-      'Specialized in interaction design and visual communication. Graduated with honors and received the Best Thesis Project award.',
-  },
-  {
-    range: '2011 - 2013',
-    title: 'Diploma in Fine Arts',
-    company: 'School of Visual Arts',
-    description:
-      'Foundation studies in drawing, painting, and digital media. Developed a strong understanding of color theory and composition.',
+      'Bachelor of Science in Information Technology. Built a strong foundation in software development, databases, and web technologies.',
   },
 ];
 
